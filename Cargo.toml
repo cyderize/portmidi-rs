@@ -1,0 +1,9 @@
+[package]
+
+name = "portmidi"
+version = "0.0.1"
+authors = ["cyderize <admin@cyderize.org>"]
+
+[dependencies.portmidi-sys]
+path = "portmidi-sys"
+version = "0.0.1"
