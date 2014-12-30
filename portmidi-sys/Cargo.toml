@@ -1,0 +1,8 @@
+[package]
+
+name = "portmidi-sys"
+version = "0.0.1"
+authors = ["cyderize <admin@cyderize.org>"]
+
+links = "portmidi"
+build = "src/build.rs"
