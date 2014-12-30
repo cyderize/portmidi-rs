@@ -15,7 +15,7 @@ To add the library's Git repository to a Cargo project, add this to your Cargo.t
 git = "https://github.com/cyderize/portmidi-rs.git"
 ```
 
-And add ```extern crate websocket;``` to your project.
+And add ```extern crate portmidi;``` to your project.
 
 ## License
 
