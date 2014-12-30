@@ -1,4 +1,4 @@
-portmidi-rs
+portmidi-rs [![Build Status](https://travis-ci.org/cyderize/portmidi-rs.svg)](https://travis-ci.org/cyderize/portmidi-rs)
 ===========
 
 PortMidi bindings for Rust
